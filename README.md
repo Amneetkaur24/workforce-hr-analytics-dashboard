@@ -15,6 +15,10 @@ The dashboard enables stakeholders to quickly understand workforce structure and
 HR teams often struggle to monitor workforce metrics such as employee growth, department distribution, demographic composition, and salary patterns. Without clear visualization, it becomes difficult to identify workforce trends and support strategic planning.
 
 ---
+<img width="1399" height="799" alt="HR Summary _ Overview" src="https://github.com/user-attachments/assets/70806bd7-6949-4fe9-8511-399417d96333" />
+
+<img width="1399" height="799" alt="HR _ Details" src="https://github.com/user-attachments/assets/fbdd4faa-356b-487e-b503-8c9fa90d3b5a" />
+
 
 ## Project Objective
 
@@ -105,10 +109,9 @@ Data Storytelling
 
 ## Key Insights
 
-• Operations and Sales departments represent the largest workforce segments.  
-• Salary levels generally increase with higher educational attainment.  
-• Workforce distribution is relatively balanced between male and female employees.  
-• A large portion of employees fall within mid-career age groups.
+• Operations and Sales represent over 50% of the workforce.
+• Employees with postgraduate degrees earn significantly higher salaries.
+• Workforce age distribution suggests a mid-career dominant workforce (35-44).
 
 ---
 
